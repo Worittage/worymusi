@@ -592,7 +592,7 @@ function App() {
                       <a className="track__author-link" href="http://"></a>
                     </div>
                     <div className="track__album">
-                      <a className="track__album-link" href="http://"></a>
+                      <a className="track__album-link" href="http://">ddd</a>
                     </div>
                     <div className="track__time">
                       <svg className="track__time-svg" alt="time">
