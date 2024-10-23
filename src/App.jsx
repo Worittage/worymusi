@@ -530,8 +530,8 @@ function App() {
                       
                     </div>
                     <div className="track__album">
-                      <a className="track__album-link" href="http://"
-                        >How Deep Is Your Love</a>
+                      <a className="track__album-link" href="http://">How Deep Is Your Love</a>
+                        
                       
                     </div>
                     <div className="track__time">
@@ -552,8 +552,8 @@ function App() {
                         </svg>
                       </div>
                       <div className="track__title-text">
-                        <a className="track__title-link" href="http://"
-                          >Morena <span className="track__title-span"></span></a>
+                        <a className="track__title-link" href="http://">Morena <span className="track__title-span"></span></a>
+                          
                         
                       </div>
                     </div>
@@ -561,8 +561,8 @@ function App() {
                       <a className="track__author-link" href="http://">Tom Boxer</a>
                     </div>
                     <div className="track__album">
-                      <a className="track__album-link" href="http://"
-                        >Soundz Made in Romania</a>
+                      <a className="track__album-link" href="http://">Soundz Made in Romania</a>
+                        
                       
                     </div>
                     <div className="track__time">
