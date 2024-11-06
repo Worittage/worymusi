@@ -236,9 +236,9 @@ function App() {
                             <a className="track__title-link" href="http://"
                               >Eyes on Fire
                               <span className="track__title-span"
-                                >(Zeds Dead Remix)</span
-                              ></a
-                            >
+                                >(Zeds Dead Remix)</span></a>
+                              
+                            
                           </div>
                         </div>
                         <div className="track__author">
