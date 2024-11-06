@@ -331,6 +331,12 @@ body {
   overflow-y: auto;
 }
 
+.playlist {
+  background-color:#181818;
+  width: 100%;
+  height: 100%;
+}
+
 .playlist-title__col {
   font-style: normal;
   font-weight: 400;
