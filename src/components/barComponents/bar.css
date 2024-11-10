@@ -95,6 +95,7 @@
   .player__btn-prev-svg {
     width: 15px;
     height: 14px;
+    fill: #ffffff;
   }
   
   .player__btn-play {
@@ -109,14 +110,14 @@
   
   .player__btn-next {
     margin-right: 28px;
-    fill: #a53939;
+    fill: #fffdfd;
   }
   
   .player__btn-next-svg {
     width: 15px;
     height: 14px;
     fill: inherit;
-    stroke: #d9d9d9;
+    stroke: #ffffff;
   }
   
   .player__btn-repeat {
@@ -292,4 +293,4 @@
   .volume__progress-line {
     width: 109px;
   }
-  
+    
