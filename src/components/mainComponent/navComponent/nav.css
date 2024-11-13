@@ -33,6 +33,7 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
+    cursor: pointer;
   }
   
   .nav__menu {
@@ -68,3 +69,13 @@
     font-size: 16px;
     line-height: 24px;
   }
+
+  /* Начальное состояние - скрыто */
+.menu__list {
+  display: none;
+}
+
+/* Открытое состояние - меню будет видно */
+.menu_open .menu__list {
+  display: block;
+}
