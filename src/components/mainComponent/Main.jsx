@@ -6,6 +6,7 @@ import Sidebar from "./sidebarComponent/Sidebar";
 
 const Main = () => {
     return(
+        
         <main className="main">
               <Nav></Nav>
               <Centerblock></Centerblock>
