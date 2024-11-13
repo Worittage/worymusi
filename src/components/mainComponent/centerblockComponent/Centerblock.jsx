@@ -245,8 +245,8 @@ const Centerblock = () => {
                   <a className="track__title-link" href="http://"
                     >Mucho Bien
                     <span className="track__title-span"
-                      >(Hi Profile Remix)</span ></a>
-                   
+                      >(Hi Profile Remix)</span></a>
+                    
                   
                 </div>
               </div>
