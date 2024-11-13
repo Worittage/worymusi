@@ -294,3 +294,21 @@
     width: 109px;
   }
     
+
+  .skeleton-container {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f0f0f0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .skeleton-circle {
+    background-color: #e0e0e0;
+    border-radius: 50%;
+  }
+  
+  .skeleton-bar {
+    background-color: #e0e0e0;
+  }
+  
