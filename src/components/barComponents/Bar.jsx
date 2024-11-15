@@ -21,7 +21,7 @@ export class Bar extends Component {
           album: 'Баста',
         },
       });
-    }, 3000);
+    }, 1000);
   }
 
   render() {
