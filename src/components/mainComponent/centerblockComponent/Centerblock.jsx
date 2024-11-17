@@ -61,7 +61,7 @@ function Centerblock() {
           году выпуска
           {activeFilter === "year" && (
             <div className="filter__dropdown">
-              <ul>
+              <ul className="yars-list">
                 <li>2023</li>
                 <li>2022</li>
                 <li>2021</li>
@@ -78,7 +78,7 @@ function Centerblock() {
           жанру
           {activeFilter === "genre" && (
             <div className="filter__dropdown">
-              <ul>
+              <ul className="janr-list">
                 <li>Поп</li>
                 <li>Рок</li>
                 <li>Джаз</li>
