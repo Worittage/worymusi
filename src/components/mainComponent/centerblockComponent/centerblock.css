@@ -356,10 +356,11 @@
     border-radius: 4px;
     padding: 10px;
     z-index: 100; /* Убедимся, что список поверх других элементов */
-    width: 150px;
+    width: 248px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     border-radius: 25px;
     margin-top: 10px;
+    opacity: 0.9;
   }
   
   .filter__dropdown ul {
@@ -383,6 +384,16 @@
   }
 
   .compositors-list {
+    text-align: justify;
+    padding-left: 8px;
+  }
+
+  .yars-list {
+    text-align: justify;
+    padding-left: 8px;
+  }
+
+  .janr-list {
     text-align: justify;
     padding-left: 8px;
   }
