@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
-import './centerblock.css'
+import './centerblock.css';
 
 function Centerblock() {
-
   const [loading, setLoading] = useState(true);
+  const [activeFilter, setActiveFilter] = useState(null);
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -13,8 +13,12 @@ function Centerblock() {
     return () => clearTimeout(timer);
   }, []);
 
-    return (
-      <div className="main__centerblock centerblock">
+  const handleFilterClick = (filterName) => {
+    setActiveFilter((prevFilter) => (prevFilter === filterName ? null : filterName));
+  };
+
+  return (
+    <div className="main__centerblock centerblock">
       <div className="centerblock__search search">
         <svg className="search__svg">
           <use xlinkHref="img/icon/sprite.svg#icon-search"></use>
@@ -29,13 +33,59 @@ function Centerblock() {
       <h2 className="centerblock__h2">Треки</h2>
       <div className="centerblock__filter filter">
         <div className="filter__title">Искать по:</div>
-        <div className="filter__button button-author _btn-text">
+        <div
+          className={`filter__button button-author _btn-text ${
+            activeFilter === "author" ? "active" : ""
+          }`}
+          onClick={() => handleFilterClick("author")}
+        >
           исполнителю
+          {activeFilter === "author" && (
+            <div className="filter__dropdown">
+              <ul className="compositors-list">
+                <li>Michael Jackson</li>
+                <li>Frank Sinatra</li>
+                <li>Calvin Harris</li>
+                <li>Zhu</li>
+                <li>Arctic Monkeys</li>
+              </ul>
+            </div>
+          )}
         </div>
-        <div className="filter__button button-year _btn-text">
+        <div
+          className={`filter__button button-year _btn-text ${
+            activeFilter === "year" ? "active" : ""
+          }`}
+          onClick={() => handleFilterClick("year")}
+        >
           году выпуска
+          {activeFilter === "year" && (
+            <div className="filter__dropdown">
+              <ul>
+                <li>2023</li>
+                <li>2022</li>
+                <li>2021</li>
+              </ul>
+            </div>
+          )}
         </div>
-        <div className="filter__button button-genre _btn-text">жанру</div>
+        <div
+          className={`filter__button button-genre _btn-text ${
+            activeFilter === "genre" ? "active" : ""
+          }`}
+          onClick={() => handleFilterClick("genre")}
+        >
+          жанру
+          {activeFilter === "genre" && (
+            <div className="filter__dropdown">
+              <ul>
+                <li>Поп</li>
+                <li>Рок</li>
+                <li>Джаз</li>
+              </ul>
+            </div>
+          )}
+        </div>
       </div>
       <div className="centerblock__content">
         <div className="content__title playlist-title">
@@ -642,8 +692,8 @@ function Centerblock() {
         </div>
       </div>
     </div>
-
-    )
+  );
 }
+
 
 export default Centerblock;
