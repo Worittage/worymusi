@@ -130,7 +130,7 @@ function Centerblock() {
                       </div>
                   ) : (
                     <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
+                    >Elektro <span className="track__title-span"></span></a>
                   )}
                   
                   
@@ -142,7 +142,7 @@ function Centerblock() {
                   width: 150, height: 19 }}>
                     </div>
                 ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
+                  <a className="track__author-link" href="http://">Dynoro, Outwork, Mr. Gee</a>
                 )}
                 
               </div>
@@ -153,7 +153,7 @@ function Centerblock() {
                     </div>
                 ) : (
                   <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
+                  >Elektro</a>
                 )}
                 
                 
@@ -162,7 +162,7 @@ function Centerblock() {
                 <svg className="track__time-svg" alt="time">
                   <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
                 </svg>
-                <span className="track__time-text">4:44</span>
+                <span className="track__time-text">2:22</span>
               </div>
             </div>
           </div>
@@ -189,7 +189,7 @@ function Centerblock() {
                       </div>
                   ) : (
                     <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
+                    >I’m Fire <span className="track__title-span"></span></a>
                   )}
                   
                   
@@ -201,7 +201,7 @@ function Centerblock() {
                   width: 150, height: 19 }}>
                     </div>
                 ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
+                  <a className="track__author-link" href="http://">Ali Bakgor</a>
                 )}
                 
               </div>
@@ -212,7 +212,7 @@ function Centerblock() {
                     </div>
                 ) : (
                   <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
+                  >I’m Fire</a>
                 )}
                 
                 
@@ -221,7 +221,7 @@ function Centerblock() {
                 <svg className="track__time-svg" alt="time">
                   <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
                 </svg>
-                <span className="track__time-text">4:44</span>
+                <span className="track__time-text">2:34</span>
               </div>
             </div>
           </div>
@@ -248,7 +248,7 @@ function Centerblock() {
                       </div>
                   ) : (
                     <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
+                    >Non Stop <span className="track__title-span"></span></a>
                   )}
                   
                   
@@ -260,7 +260,7 @@ function Centerblock() {
                   width: 150, height: 19 }}>
                     </div>
                 ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
+                  <a className="track__author-link" href="http://">Стоункат, Psychopath</a>
                 )}
                 
               </div>
@@ -271,7 +271,7 @@ function Centerblock() {
                     </div>
                 ) : (
                   <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
+                  >Non Stop</a>
                 )}
                 
                 
@@ -280,7 +280,7 @@ function Centerblock() {
                 <svg className="track__time-svg" alt="time">
                   <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
                 </svg>
-                <span className="track__time-text">4:44</span>
+                <span className="track__time-text">4:12</span>
               </div>
             </div>
           </div>
@@ -307,7 +307,7 @@ function Centerblock() {
                       </div>
                   ) : (
                     <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
+                    >Run Run <span className="track__title-span"></span></a>
                   )}
                   
                   
@@ -319,7 +319,7 @@ function Centerblock() {
                   width: 150, height: 19 }}>
                     </div>
                 ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
+                  <a className="track__author-link" href="http://">Jaded, Will Clarke, AR/CO</a>
                 )}
                 
               </div>
@@ -330,7 +330,7 @@ function Centerblock() {
                     </div>
                 ) : (
                   <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
+                  >Run Run</a>
                 )}
                 
                 
@@ -339,7 +339,7 @@ function Centerblock() {
                 <svg className="track__time-svg" alt="time">
                   <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
                 </svg>
-                <span className="track__time-text">4:44</span>
+                <span className="track__time-text">2:54</span>
               </div>
             </div>
           </div>
@@ -366,7 +366,7 @@ function Centerblock() {
                       </div>
                   ) : (
                     <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
+                    >Eyes on Fire <span className="track__title-span"></span></a>
                   )}
                   
                   
@@ -378,7 +378,7 @@ function Centerblock() {
                   width: 150, height: 19 }}>
                     </div>
                 ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
+                  <a className="track__author-link" href="http://">Blue Foundation, Zeds Dead </a>
                 )}
                 
               </div>
@@ -389,7 +389,7 @@ function Centerblock() {
                     </div>
                 ) : (
                   <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
+                  >Eyes on Fire</a>
                 )}
                 
                 
@@ -398,7 +398,7 @@ function Centerblock() {
                 <svg className="track__time-svg" alt="time">
                   <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
                 </svg>
-                <span className="track__time-text">4:44</span>
+                <span className="track__time-text">5:20</span>
               </div>
             </div>
           </div>
@@ -425,7 +425,7 @@ function Centerblock() {
                       </div>
                   ) : (
                     <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
+                    >Mucho Bien <span className="track__title-span"></span></a>
                   )}
                   
                   
@@ -437,7 +437,7 @@ function Centerblock() {
                   width: 150, height: 19 }}>
                     </div>
                 ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
+                  <a className="track__author-link" href="http://">HYBIT, Mr. Black, Offer Nissim, Hi Profile</a>
                 )}
                 
               </div>
@@ -448,7 +448,7 @@ function Centerblock() {
                     </div>
                 ) : (
                   <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
+                  >Mucho Bien</a>
                 )}
                 
                 
@@ -457,7 +457,7 @@ function Centerblock() {
                 <svg className="track__time-svg" alt="time">
                   <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
                 </svg>
-                <span className="track__time-text">4:44</span>
+                <span className="track__time-text">3:41</span>
               </div>
             </div>
           </div>
@@ -484,7 +484,7 @@ function Centerblock() {
                       </div>
                   ) : (
                     <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
+                    >Knives n Cherries <span className="track__title-span"></span></a>
                   )}
                   
                   
@@ -496,7 +496,7 @@ function Centerblock() {
                   width: 150, height: 19 }}>
                     </div>
                 ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
+                  <a className="track__author-link" href="http://">minthaze</a>
                 )}
                 
               </div>
@@ -507,7 +507,7 @@ function Centerblock() {
                     </div>
                 ) : (
                   <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
+                  >Captivating</a>
                 )}
                 
                 
@@ -516,7 +516,7 @@ function Centerblock() {
                 <svg className="track__time-svg" alt="time">
                   <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
                 </svg>
-                <span className="track__time-text">4:44</span>
+                <span className="track__time-text">1:48</span>
               </div>
             </div>
           </div>
@@ -543,7 +543,7 @@ function Centerblock() {
                       </div>
                   ) : (
                     <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
+                    >How Deep Is Your Love <span className="track__title-span"></span></a>
                   )}
                   
                   
@@ -555,7 +555,7 @@ function Centerblock() {
                   width: 150, height: 19 }}>
                     </div>
                 ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
+                  <a className="track__author-link" href="http://">Calvin Harris, Disciples</a>
                 )}
                 
               </div>
@@ -566,7 +566,7 @@ function Centerblock() {
                     </div>
                 ) : (
                   <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
+                  >How Deep Is Your Love</a>
                 )}
                 
                 
@@ -575,7 +575,7 @@ function Centerblock() {
                 <svg className="track__time-svg" alt="time">
                   <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
                 </svg>
-                <span className="track__time-text">4:44</span>
+                <span className="track__time-text">3:32</span>
               </div>
             </div>
           </div>
@@ -602,7 +602,7 @@ function Centerblock() {
                       </div>
                   ) : (
                     <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
+                    >Morena <span className="track__title-span"></span></a>
                   )}
                   
                   
@@ -614,7 +614,7 @@ function Centerblock() {
                   width: 150, height: 19 }}>
                     </div>
                 ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
+                  <a className="track__author-link" href="http://">Tom Boxer</a>
                 )}
                 
               </div>
@@ -625,7 +625,7 @@ function Centerblock() {
                     </div>
                 ) : (
                   <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
+                  >Soundz Made in Romania</a>
                 )}
                 
                 
@@ -634,394 +634,11 @@ function Centerblock() {
                 <svg className="track__time-svg" alt="time">
                   <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
                 </svg>
-                <span className="track__time-text">4:44</span>
+                <span className="track__time-text">3:36</span>
               </div>
             </div>
           </div>
 
-          <div className="playlist__item">
-            <div className="playlist__track track">
-              <div className="track__title">
-                <div className="track__title-image">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 51, height: 51 }}>
-                      </div>
-                  ) : (
-                    <svg className="track__title-svg" alt="music">
-                    <use xlinkHref="img/icon/sprite.svg#icon-note"></use>
-                  </svg>
-                  )}
-                  
-                </div>
-                <div className="track__title-text">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 150, height: 19 }}>
-                      </div>
-                  ) : (
-                    <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
-                  )}
-                  
-                  
-                </div>
-              </div>
-              <div className="track__author">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 150, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
-                )}
-                
-              </div>
-              <div className="track__album">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 100, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
-                )}
-                
-                
-              </div>
-              <div className="track__time">
-                <svg className="track__time-svg" alt="time">
-                  <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
-                </svg>
-                <span className="track__time-text">4:44</span>
-              </div>
-            </div>
-          </div>
-
-          <div className="playlist__item">
-            <div className="playlist__track track">
-              <div className="track__title">
-                <div className="track__title-image">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 51, height: 51 }}>
-                      </div>
-                  ) : (
-                    <svg className="track__title-svg" alt="music">
-                    <use xlinkHref="img/icon/sprite.svg#icon-note"></use>
-                  </svg>
-                  )}
-                  
-                </div>
-                <div className="track__title-text">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 150, height: 19 }}>
-                      </div>
-                  ) : (
-                    <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
-                  )}
-                  
-                  
-                </div>
-              </div>
-              <div className="track__author">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 150, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
-                )}
-                
-              </div>
-              <div className="track__album">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 100, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
-                )}
-                
-                
-              </div>
-              <div className="track__time">
-                <svg className="track__time-svg" alt="time">
-                  <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
-                </svg>
-                <span className="track__time-text">4:44</span>
-              </div>
-            </div>
-          </div>
-
-          <div className="playlist__item">
-            <div className="playlist__track track">
-              <div className="track__title">
-                <div className="track__title-image">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 51, height: 51 }}>
-                      </div>
-                  ) : (
-                    <svg className="track__title-svg" alt="music">
-                    <use xlinkHref="img/icon/sprite.svg#icon-note"></use>
-                  </svg>
-                  )}
-                  
-                </div>
-                <div className="track__title-text">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 150, height: 19 }}>
-                      </div>
-                  ) : (
-                    <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
-                  )}
-                  
-                  
-                </div>
-              </div>
-              <div className="track__author">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 150, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
-                )}
-                
-              </div>
-              <div className="track__album">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 100, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
-                )}
-                
-                
-              </div>
-              <div className="track__time">
-                <svg className="track__time-svg" alt="time">
-                  <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
-                </svg>
-                <span className="track__time-text">4:44</span>
-              </div>
-            </div>
-          </div>
-
-          <div className="playlist__item">
-            <div className="playlist__track track">
-              <div className="track__title">
-                <div className="track__title-image">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 51, height: 51 }}>
-                      </div>
-                  ) : (
-                    <svg className="track__title-svg" alt="music">
-                    <use xlinkHref="img/icon/sprite.svg#icon-note"></use>
-                  </svg>
-                  )}
-                  
-                </div>
-                <div className="track__title-text">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 150, height: 19 }}>
-                      </div>
-                  ) : (
-                    <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
-                  )}
-                  
-                  
-                </div>
-              </div>
-              <div className="track__author">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 150, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
-                )}
-                
-              </div>
-              <div className="track__album">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 100, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
-                )}
-                
-                
-              </div>
-              <div className="track__time">
-                <svg className="track__time-svg" alt="time">
-                  <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
-                </svg>
-                <span className="track__time-text">4:44</span>
-              </div>
-            </div>
-          </div>
-
-          <div className="playlist__item">
-            <div className="playlist__track track">
-              <div className="track__title">
-                <div className="track__title-image">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 51, height: 51 }}>
-                      </div>
-                  ) : (
-                    <svg className="track__title-svg" alt="music">
-                    <use xlinkHref="img/icon/sprite.svg#icon-note"></use>
-                  </svg>
-                  )}
-                  
-                </div>
-                <div className="track__title-text">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 150, height: 19 }}>
-                      </div>
-                  ) : (
-                    <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
-                  )}
-                  
-                  
-                </div>
-              </div>
-              <div className="track__author">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 150, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
-                )}
-                
-              </div>
-              <div className="track__album">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 100, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
-                )}
-                
-                
-              </div>
-              <div className="track__time">
-                <svg className="track__time-svg" alt="time">
-                  <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
-                </svg>
-                <span className="track__time-text">4:44</span>
-              </div>
-            </div>
-          </div>
-
-          <div className="playlist__item">
-            <div className="playlist__track track">
-              <div className="track__title">
-                <div className="track__title-image">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 51, height: 51 }}>
-                      </div>
-                  ) : (
-                    <svg className="track__title-svg" alt="music">
-                    <use xlinkHref="img/icon/sprite.svg#icon-note"></use>
-                  </svg>
-                  )}
-                  
-                </div>
-                <div className="track__title-text">
-                  {loading ? (
-                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                    width: 150, height: 19 }}>
-                      </div>
-                  ) : (
-                    <a className="track__title-link" href="http://"
-                    >Guilt <span className="track__title-span"></span></a>
-                  )}
-                  
-                  
-                </div>
-              </div>
-              <div className="track__author">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 150, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__author-link" href="http://">Nero</a>
-                )}
-                
-              </div>
-              <div className="track__album">
-                {loading ? (
-                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
-                  width: 100, height: 19 }}>
-                    </div>
-                ) : (
-                  <a className="track__album-link" href="http://"
-                  >Welcome Reality</a>
-                )}
-                
-                
-              </div>
-              <div className="track__time">
-                <svg className="track__time-svg" alt="time">
-                  <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
-                </svg>
-                <span className="track__time-text">4:44</span>
-              </div>
-            </div>
-          </div>
-
-
-          <div className="playlist__item">
-            <div className="playlist__track track">
-              <div className="track__title">
-                <div className="track__title-image">
-                  <svg className="track__title-svg" alt="music">
-                    <use xlinkHref="img/icon/sprite.svg#icon-note"></use>
-                  </svg>
-                </div>
-                <div className="track__title-text">
-                  <a className="track__title-link" href="http://">
-                    <span className="track__title-span"></span></a>
-                  
-                </div>
-              </div>
-              <div className="track__author">
-                <a className="track__author-link" href="http://"></a>
-              </div>
-              <div className="track__album">
-                <a className="track__album-link" href="http://"></a>
-              </div>
-              <div className="track__time">
-                <svg className="track__time-svg" alt="time">
-                  <use xlinkHref="img/icon/sprite.svg#icon-like"></use>
-                </svg>
-                <span className="track__time-text"></span>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
