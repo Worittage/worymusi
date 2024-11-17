@@ -1,7 +1,18 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import './centerblock.css'
 
-const Centerblock = () => {
+function Centerblock() {
+
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLoading(false);
+    }, 1000);
+
+    return () => clearTimeout(timer);
+  }, []);
+
     return (
       <div className="main__centerblock centerblock">
       <div className="centerblock__search search">
@@ -42,22 +53,50 @@ const Centerblock = () => {
             <div className="playlist__track track">
               <div className="track__title">
                 <div className="track__title-image">
-                  <svg className="track__title-svg" alt="music">
+                  {loading ? (
+                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
+                    width: 51, height: 51 }}>
+                      </div>
+                  ) : (
+                    <svg className="track__title-svg" alt="music">
                     <use xlinkHref="img/icon/sprite.svg#icon-note"></use>
                   </svg>
+                  )}
+                  
                 </div>
                 <div className="track__title-text">
-                  <a className="track__title-link" href="http://"
+                  {loading ? (
+                    <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
+                    width: 150, height: 19 }}>
+                      </div>
+                  ) : (
+                    <a className="track__title-link" href="http://"
                     >Guilt <span className="track__title-span"></span></a>
+                  )}
+                  
                   
                 </div>
               </div>
               <div className="track__author">
-                <a className="track__author-link" href="http://">Nero</a>
+                {loading ? (
+                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
+                  width: 150, height: 19 }}>
+                    </div>
+                ) : (
+                  <a className="track__author-link" href="http://">Nero</a>
+                )}
+                
               </div>
               <div className="track__album">
-                <a className="track__album-link" href="http://"
+                {loading ? (
+                  <div className="sidebar__img-skeleton" style={{ backgroundColor: '#313131',
+                  width: 100, height: 19 }}>
+                    </div>
+                ) : (
+                  <a className="track__album-link" href="http://"
                   >Welcome Reality</a>
+                )}
+                
                 
               </div>
               <div className="track__time">
