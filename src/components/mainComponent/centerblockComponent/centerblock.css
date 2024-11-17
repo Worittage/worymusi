@@ -326,4 +326,64 @@
     text-align: right;
     color: #696969;
   }
+
+  .filter__button {
+    position: relative; /* Чтобы дочерний dropdown был относительно кнопки */
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px 15px;
+    margin: 0 5px;
+    background-color: #222;
+    color: #ddd;
+    border: 1px solid #444;
+    border-radius: 25px;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+  }
+  
+  .filter__button.active {
+    background-color: #444;
+    color: #fff;
+  }
+  
+  .filter__dropdown {
+    position: absolute;
+    top: 100%; /* Выпадающий список появляется под кнопкой */
+    left: 0;
+    background-color: #333;
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 10px;
+    z-index: 100; /* Убедимся, что список поверх других элементов */
+    width: 150px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 25px;
+    margin-top: 10px;
+  }
+  
+  .filter__dropdown ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  .filter__dropdown li {
+    margin: 5px 0;
+    padding: 5px;
+    cursor: pointer;
+    color: #ddd;
+    border-radius: 4px;
+  }
+  
+  .filter__dropdown li:hover {
+    background-color: #444;
+    color: #fff;
+  }
+
+  .compositors-list {
+    text-align: justify;
+    padding-left: 8px;
+  }
   
